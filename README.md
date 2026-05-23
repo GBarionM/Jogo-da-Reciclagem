@@ -1,2 +1,1 @@
-# Jogo-da-Reciclagem
-Trabalho APS 1 semestre 2026
+Projeto de jogo feito em Java, consiste em diferentes tipod de lixo caindo e o jogador deve pega-los na lixeira certa.
